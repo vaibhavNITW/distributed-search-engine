@@ -1,0 +1,63 @@
+2025-05-19 13:01:56,250 - INFO - Generated 200 synthetic search logs
+2025-05-19 13:01:56,413 - INFO - Validation accuracy: 0.6276
+2025-05-19 13:01:56,414 - INFO - Trained logreg model on 1195 examples
+2025-05-19 13:01:56,421 - INFO - Model saved to data/models/ranker_model.pkl
+2025-05-19 13:10:16,741 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:10:16,744 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 13:19:27,347 - INFO - Client connected: ('127.0.0.1', 59930)
+2025-05-19 13:19:27,485 - INFO - Client disconnected: ('127.0.0.1', 59930)
+2025-05-19 13:27:04,924 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:27:04,926 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 13:27:04,928 - INFO - Server stopped
+2025-05-19 13:28:32,456 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:28:32,458 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 13:28:32,458 - INFO - Server stopped
+2025-05-19 13:29:07,805 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:29:07,821 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 13:29:07,822 - INFO - Server stopped
+2025-05-19 13:52:21,244 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:52:21,248 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 13:52:21,249 - INFO - Server stopped
+2025-05-19 13:59:50,960 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 13:59:50,963 - INFO - Server started on 0.0.0.0:9000
+2025-05-19 14:01:52,273 - INFO - Server stopped
+2025-05-19 14:02:23,103 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:02:23,104 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:02:23,105 - INFO - Server stopped
+2025-05-19 14:02:47,324 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:02:47,327 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:02:47,327 - INFO - Server stopped
+2025-05-19 14:03:54,670 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:03:54,671 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:03:54,671 - INFO - Server stopped
+2025-05-19 14:05:21,641 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:05:21,642 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:05:21,643 - INFO - Server stopped
+2025-05-19 14:14:17,518 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:14:17,520 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:14:17,521 - INFO - Server stopped
+2025-05-19 14:24:54,872 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:24:54,875 - ERROR - Server error: [Errno 98] Address already in use
+2025-05-19 14:24:54,877 - INFO - Server stopped
+2025-05-19 14:27:49,989 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:27:49,991 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 14:28:20,581 - INFO - Server stopped
+2025-05-19 14:28:20,583 - INFO - Server stopped
+2025-05-19 14:45:42,181 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:45:42,190 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 14:45:58,438 - INFO - Server stopped
+2025-05-19 14:45:58,439 - INFO - Server stopped
+2025-05-19 14:47:56,421 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:47:56,423 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 14:48:14,683 - INFO - Server stopped
+2025-05-19 14:48:14,685 - INFO - Server stopped
+2025-05-19 14:52:29,596 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 14:52:29,598 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 14:53:07,322 - INFO - Client connected: ('127.0.0.1', 45658)
+2025-05-19 14:53:07,346 - INFO - Client disconnected: ('127.0.0.1', 45658)
+2025-05-19 15:01:41,928 - INFO - Server stopped
+2025-05-19 15:01:41,954 - INFO - Server stopped
+2025-05-19 15:04:00,258 - INFO - Model loaded from data/models/ranker_model.pkl
+2025-05-19 15:04:00,259 - INFO - Server started on 0.0.0.0:8000
+2025-05-19 15:04:42,739 - INFO - Client connected: ('127.0.0.1', 54114)
+2025-05-19 15:04:42,774 - INFO - Client disconnected: ('127.0.0.1', 54114)

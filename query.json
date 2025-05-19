@@ -1,0 +1,5 @@
+{
+  "command": "search",
+  "query": "machine learning",
+  "top_k": 5
+}
