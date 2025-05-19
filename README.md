@@ -126,15 +126,15 @@ You should see something like:
 
 ### ✅ Server Running
 
-![Server Running](screenshots/serverstarted.png)
+![Server Running](screenshots/serverstarted.png.png)
 
 ### ❌ Server Closed
 
-![Server Closed](screenshots/serverclosed.png)
+![Server Closed](screenshots/serverclosed.png.png)
 
 ### 🔍 Client Query Result
 
-![Client Response](screenshots/client.png)
+![Client Response](screenshots/client.png.png)
 
 ## 🧠 Purpose of the Project
 
